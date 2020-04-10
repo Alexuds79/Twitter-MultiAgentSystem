@@ -1,0 +1,78 @@
+Cinema
+role
+scene
+screenwriter
+set
+studio
+subtitles
+supporting actor
+supporting cast
+supporting role
+titles
+theatre
+theater
+amphitheatre
+amphitheater
+actor
+actress
+audience
+ballet
+cast
+choreographer
+choreography
+chorus
+cinema
+comedy
+composer
+conductor
+costumes
+director
+drama
+dramatist
+duet
+intermission
+librettist
+libretto
+musical
+opera
+light opera
+opera festival
+opera glasses
+opera house
+opera season
+opera singer
+overture
+pantomime
+performance
+play
+playwright
+producer
+program
+programme
+revue
+scene
+behind the scenes
+singer
+stage
+stage design
+stage designer
+stage fright
+stage manager
+stage name
+star
+starlet
+trio
+understudy
+usher
+aisle
+backstage
+balcony
+mezzanine
+box
+pit
+stalls
+wings
+to act
+to conduct
+to go on the stage
+to stage

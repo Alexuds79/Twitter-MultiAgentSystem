@@ -1,0 +1,43 @@
+Music
+music
+musical instrument
+lyrics
+tune
+in tune
+out of tune
+orchestra
+conductor
+scale
+solfeo
+to solfa
+singer
+voice
+duet
+trio
+chorus, choir
+tenor
+baritone
+bass
+soprano
+mezzo-soprano
+alto
+note
+semibreve
+whole note
+minim
+half note
+crotchet
+quarter
+quaver
+eighth note
+semiquaver
+sixteenth note
+rest
+flat
+sharp
+music
+beat
+bar, measure
+treble clef
+bass clef
+chord

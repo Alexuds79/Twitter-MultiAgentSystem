@@ -1,0 +1,143 @@
+Food
+recipe
+ingredient
+baking powder
+baking soda
+butter
+melted butter
+unsalted butter
+buttermilk
+cheese
+chocolate chips
+cocoa
+cream
+sour cream
+whipping cream
+egg
+egg white
+egg yolk
+flour
+all-purpose flour
+plain flour
+self-raising flour
+self-rising flour
+wholewheat flour
+wholegrain flour
+graham flour
+almond flour
+corn flour
+rice flour
+jam
+milk
+condensed milk
+dried milk
+skim milk
+skimmed milk
+whole milk
+almond milk
+margarine
+oil
+canola oil
+rape oil
+olive oil
+sunflower oil
+vegetable oil
+pepper
+salt
+sugar
+brown sugar
+icing sugar
+white sugar
+vanilla extract
+water
+cold water
+warm water
+boiling water
+yeast
+Measures
+bowl
+cup
+tablespoon
+teaspoon
+pinch
+Ways of cooking
+to cook
+to bake
+to barbecue
+to boil
+to braise
+to broil
+to fry
+to grill
+to roast
+to poach
+to sauté
+to simmer
+to steam
+to stew
+to stir-fry
+to toast
+to microwave
+restaurant
+drive-in restaurant
+fast-food restaurant
+self-service restaurant
+bar
+pub
+cafe
+takeaway
+takeout
+food
+meal
+hot meal
+full meal
+square meal
+combo
+snack
+starter
+entree
+main course
+dessert
+appetizer
+beverage
+bill
+bottle opener
+bread plate
+check
+chef
+cook
+cup
+dinner
+dish
+dressing
+food
+fork
+glass
+knife
+lunch
+menu
+fixed-price menu
+mug
+napkin
+on the rocks
+saucer
+soft drink
+spoon
+table
+tablecloth
+tankard
+tip
+tip included
+waiter
+waitress
+rare
+medium
+well done
+to ask for the bill
+to book a table
+to foot the bill
+to order
+to recommend
+Enjoy your meal!
+No smoking
+No pets allowed
